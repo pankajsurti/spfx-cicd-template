@@ -1,3 +1,6 @@
+
+![SPFx WebParts CICD with Office 365 CLI](https://github.com/pankajsurti/spfx-cicd-template/workflows/SPFx%20WebParts%20CICD%20with%20Office%20365%20CLI/badge.svg)
+
 ## spfx-hello-world
 
 This is where you include your WebPart documentation.
