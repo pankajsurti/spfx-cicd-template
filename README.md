@@ -1,9 +1,10 @@
 
 ![SPFx WebParts CICD with Office 365 CLI](https://github.com/pankajsurti/spfx-cicd-template/workflows/SPFx%20WebParts%20CICD%20with%20Office%20365%20CLI/badge.svg)
 
-## spfx-hello-world
+## spfx-CI/CD-Template
 
-This is where you include your WebPart documentation.
+This repo is a template to CI/CD for SPFx web parts.
+Please follow the SPFx documentation for setting up the development environments.
 
 ### Building the code
 
