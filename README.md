@@ -6,6 +6,17 @@
 This repo is a template to CI/CD for SPFx web parts.
 Please follow the SPFx documentation for setting up the development environments.
 
+### How to use this template for your SPFx code?
+
+1. First clone this repo like 
+```bash
+git clone the repo
+```
+2. Copy your SPFx code.
+
+
+
+
 ### Building the code
 
 ```bash
